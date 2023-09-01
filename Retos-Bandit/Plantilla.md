@@ -1,11 +1,11 @@
-# Level X
+#  LEVEL x → LEVEL x
 
-Objetivo
+# Objetivo
 
-Datos de acceso al nivel
+# Datos de acceso al nivel
 
-Solución
+# Solución
 
-Notas Adicionales
+# Notas Adicionales
 
-Referencias
+# Referencias
