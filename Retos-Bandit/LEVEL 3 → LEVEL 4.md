@@ -4,6 +4,7 @@
 The password for the next level is stored in a hidden file in the **inhere** directory.
 # Datos de acceso al nivel
 ```
+ssh bandit3@bandit.labs.overthewire.org -p 2220
 bandit3
 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 ```

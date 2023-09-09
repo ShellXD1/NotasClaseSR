@@ -8,6 +8,7 @@ The password for the next level is stored in a file somewhere under the **inher
 - not executable
 # Datos de acceso al nivel
 ```
+ssh bandit5@bandit.labs.overthewire.org -p 2220
 bandit5
 lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 ```

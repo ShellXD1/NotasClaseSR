@@ -3,6 +3,7 @@
 The password for the next level is stored in the file **data.txt** and is the only line of text that occurs only once
 # Datos de acceso al nivel
 ```
+ssh bandit8@bandit.labs.overthewire.org -p 2220
 bandit8
 TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 ```

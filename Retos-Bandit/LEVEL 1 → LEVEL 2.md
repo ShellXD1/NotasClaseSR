@@ -4,6 +4,7 @@
 The password for the next level is stored in a file called **-** located in the home directory
 # Datos de acceso al nivel
 ```
+ssh bandit1@bandit.labs.overthewire.org -p 2220
 bandit1
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 ```

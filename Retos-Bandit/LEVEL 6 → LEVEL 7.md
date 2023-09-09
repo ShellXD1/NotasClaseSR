@@ -7,6 +7,7 @@ The password for the next level is stored **somewhere on the server** and has 
 - 33 bytes in size
 # Datos de acceso al nivel
 ```
+ssh bandit6@bandit.labs.overthewire.org -p 2220
 bandit6
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 ```
