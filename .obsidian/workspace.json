@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Bandit/LEVEL 7 → LEVEL 8.md",
+                "file": "Retos-Bandit/LEVEL 16 → LEVEL 17.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Bandit/LEVEL 7 → LEVEL 8.md",
+                "file": "Retos-Bandit/LEVEL 16 → LEVEL 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Bandit/LEVEL 7 → LEVEL 8.md",
+                "file": "Retos-Bandit/LEVEL 16 → LEVEL 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Bandit/LEVEL 7 → LEVEL 8.md"
+                "file": "Retos-Bandit/LEVEL 16 → LEVEL 17.md"
               }
             }
           }
@@ -161,6 +161,16 @@
   },
   "active": "a2c18f58d600e00b",
   "lastOpenFiles": [
+    "Retos-Bandit/LEVEL 17 → LEVEL 18.md",
+    "Retos-Bandit/LEVEL 18 → LEVEL 19.md",
+    "Retos-Bandit/LEVEL 19 → LEVEL 20.md",
+    "Retos-Bandit/LEVEL 20 → LEVEL 21.md",
+    "Retos-Bandit/LEVEL 21 → LEVEL 22.md",
+    "Retos-Bandit/LEVEL 16 → LEVEL 17.md",
+    "Retos-Bandit/LEVEL 15 → LEVEL 16.md",
+    "Retos-Bandit/Plantilla.md",
+    "Retos-Bandit/Sin título",
+    "Retos-Bandit/LEVEL 7 → LEVEL 8.md",
     "Retos-Bandit/LEVEL 8 → LEVEL 9.md",
     "Retos-Bandit/LEVEL 9 → LEVEL 10.md",
     "Retos-Bandit/LEVEL 10 → LEVEL 11.md",
@@ -168,8 +178,6 @@
     "Retos-Bandit/LEVEL 12 → LEVEL 13.md",
     "Retos-Bandit/LEVEL 13 → LEVEL 14.md",
     "Retos-Bandit/LEVEL 14 → LEVEL 15.md",
-    "Retos-Bandit/LEVEL 15 → LEVEL 16.md",
-    "Retos-Bandit/LEVEL 7 → LEVEL 8.md",
     "Retos-Bandit/LEVEL 6 → LEVEL 7.md",
     "Retos-Bandit/LEVEL 5 → LEVEL 6.md",
     "Retos-Bandit/LEVEL 4 → LEVEL 5.md",
@@ -178,7 +186,6 @@
     "Retos-Bandit/LEVEL 1 → LEVEL 2.md",
     "Retos-Bandit/LEVEL 0 → LEVEL 1.md",
     "Retos-Bandit/LEVEL 0.md",
-    "Retos-Bandit/Plantilla.md",
     "Retos-Bandit",
     "README.md"
   ]
