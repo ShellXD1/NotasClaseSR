@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Bandit/LEVEL 27 → LEVEL 28.md",
+                "file": "Retos-Bandit/LEVEL 28 → LEVEL 29.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Bandit/Plantilla.md",
+                "file": "Retos-Bandit/LEVEL 28 → LEVEL 29.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Bandit/LEVEL 27 → LEVEL 28.md",
+                "file": "Retos-Bandit/LEVEL 28 → LEVEL 29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Bandit/LEVEL 27 → LEVEL 28.md",
+                "file": "Retos-Bandit/LEVEL 28 → LEVEL 29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Bandit/LEVEL 27 → LEVEL 28.md"
+                "file": "Retos-Bandit/LEVEL 28 → LEVEL 29.md"
               }
             }
           },
@@ -168,13 +169,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "019fd6c3acf16f8e",
+  "active": "a2c18f58d600e00b",
   "lastOpenFiles": [
-    "Retos-Bandit/LEVEL 26 → LEVEL 27.md",
+    "Retos-Bandit/LEVEL 29 → LEVEL 30.md",
+    "Retos-Bandit/LEVEL 31 → LEVEL 32.md",
+    "Retos-Bandit/LEVEL 32 → LEVEL 33.md",
+    "Retos-Bandit/LEVEL 33 → LEVEL 34.md",
+    "Retos-Bandit/Plantilla.md",
+    "Retos-Bandit/LEVEL 30 → LEVEL 31.md",
+    "Retos-Bandit/LEVEL 28 → LEVEL 29.md",
     "Retos-Bandit/LEVEL 27 → LEVEL 28.md",
+    "Retos-Bandit/LEVEL 26 → LEVEL 27.md",
     "Retos-Bandit/LEVEL 25 → LEVEL 26.md",
     "Retos-Bandit/LEVEL 24 → LEVEL 25.md",
-    "Retos-Bandit/Plantilla.md",
     "Retos-Bandit/LEVEL 21 → LEVEL 22.md",
     "Retos-Bandit/LEVEL 23 → LEVEL 24.md",
     "Retos-Bandit/LEVEL 22 → LEVEL 23.md",
@@ -191,12 +198,6 @@
     "Retos-Bandit/LEVEL 10 → LEVEL 11.md",
     "Retos-Bandit/LEVEL 11 → LEVEL 12.md",
     "Retos-Bandit/LEVEL 12 → LEVEL 13.md",
-    "Retos-Bandit/LEVEL 13 → LEVEL 14.md",
-    "Retos-Bandit/LEVEL 14 → LEVEL 15.md",
-    "Retos-Bandit/LEVEL 6 → LEVEL 7.md",
-    "Retos-Bandit/LEVEL 5 → LEVEL 6.md",
-    "Retos-Bandit/LEVEL 4 → LEVEL 5.md",
-    "Retos-Bandit/LEVEL 3 → LEVEL 4.md",
     "Retos-Bandit"
   ]
 }
