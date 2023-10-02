@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Bandit/Plantilla.md",
+                "file": "Retos-Web-picoCTF/2- dont-use-client-side.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a2c18f58d600e00b",
+            "id": "9cdd19b35373d902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer-parcial-picoCTF/Parte1/8-Warmed Up.md",
+                "file": "Retos-Web-picoCTF/5- Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer-parcial-picoCTF/Parte1/8-Warmed Up.md",
+                "file": "Retos-Web-picoCTF/5- Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer-parcial-picoCTF/Parte1/8-Warmed Up.md",
+                "file": "Retos-Web-picoCTF/5- Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer-parcial-picoCTF/Parte1/8-Warmed Up.md"
+                "file": "Retos-Web-picoCTF/5- Client-side-again.md"
               }
             }
           },
@@ -169,15 +169,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a2c18f58d600e00b",
+  "active": "9cdd19b35373d902",
   "lastOpenFiles": [
+    "Retos-Web-picoCTF/6- picobrowser.md",
+    "Retos-Web-picoCTF/2- dont-use-client-side.md",
+    "Retos-Web-picoCTF/3- logon.md",
+    "Retos-Web-picoCTF/4- where are the robots.md",
+    "Retos-Web-picoCTF/5- Client-side-again.md",
+    "Retos-Web-picoCTF/1- Insp3ct0r.md",
+    "Retos-Bandit/Plantilla.md",
+    "Primer-parcial-picoCTF/Parte1/8-Warmed Up.md",
+    "Primer-parcial-picoCTF/Parte1/1-Obedient Cat.md",
+    "Retos-Web-picoCTF",
     "Primer-parcial-picoCTF/Parte1/7-Lets Warm Up.md",
     "Primer-parcial-picoCTF/Parte1/6-Magikarp Ground Mission.md",
     "Primer-parcial-picoCTF/Parte1/5-Tab, Tab, Attack.md",
     "Primer-parcial-picoCTF/Parte1/4-Static ain't always noise.md",
     "Primer-parcial-picoCTF/Parte1/3-Nice Netcat....md",
     "Primer-parcial-picoCTF/Parte1/2-Wave a flag.md",
-    "Primer-parcial-picoCTF/Parte1/1-Obedient Cat.md",
     "Primer-parcial-picoCTF/parte2/1- 2Warm.md",
     "Primer-parcial-picoCTF/parte2/2- Bases.md",
     "Primer-parcial-picoCTF/parte2/3- Codebook.md",
@@ -189,14 +198,6 @@
     "Primer-parcial-picoCTF/parte3/1- fixme2.py.md",
     "Primer-parcial-picoCTF/parte3/2- Glitch Cat.md",
     "Primer-parcial-picoCTF/parte3/3- PW Crack 1.md",
-    "Primer-parcial-picoCTF/parte3/4- PW Crack 2.md",
-    "Primer-parcial-picoCTF/parte3/5- PW Crack 3.md",
-    "Primer-parcial-picoCTF/parte3/6- runme.py.md",
-    "Primer-parcial-picoCTF/parte3/7- Based.md",
-    "Primer-parcial-picoCTF/parte3/8- plumbing.md",
-    "Retos-Bandit/Plantilla.md",
-    "Primer-parcial-picoCTF/Parte1/8-Warmed Up.md",
-    "Retos-Bandit/LEVEL 28 → LEVEL 29.md",
     "Primer-parcial-picoCTF/parte3",
     "Primer-parcial-picoCTF/parte2",
     "Primer-parcial-picoCTF/Parte1",
