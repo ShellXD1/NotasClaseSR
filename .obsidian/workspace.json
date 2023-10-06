@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Web-picoCTF/2- dont-use-client-side.md",
+                "file": "Retos-Web-picoCTF-Parte2/3- Irish-Name-Repo 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Web-picoCTF/5- Client-side-again.md",
+                "file": "Retos-Concurso-MetaredCTF-Mexico/Poor security.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Web-picoCTF/5- Client-side-again.md",
+                "file": "Retos-Concurso-MetaredCTF-Mexico/Poor security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Web-picoCTF/5- Client-side-again.md",
+                "file": "Retos-Concurso-MetaredCTF-Mexico/Poor security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Web-picoCTF/5- Client-side-again.md"
+                "file": "Retos-Concurso-MetaredCTF-Mexico/Poor security.md"
               }
             }
           },
@@ -171,13 +171,26 @@
   },
   "active": "9cdd19b35373d902",
   "lastOpenFiles": [
-    "Retos-Web-picoCTF/6- picobrowser.md",
-    "Retos-Web-picoCTF/2- dont-use-client-side.md",
-    "Retos-Web-picoCTF/3- logon.md",
-    "Retos-Web-picoCTF/4- where are the robots.md",
-    "Retos-Web-picoCTF/5- Client-side-again.md",
+    "Retos-Concurso-MetaredCTF-Mexico/An_intriguing_file.md",
+    "Retos-Concurso-MetaredCTF-Mexico/Intercepting_Communication.md",
+    "Retos-Concurso-MetaredCTF-Mexico/Discord.md",
+    "Retos-Concurso-MetaredCTF-Mexico/Hidden_instruction.md",
+    "Retos-Concurso-MetaredCTF-Mexico/Poor security.md",
+    "Retos-Concurso-MetaredCTF-Mexico/1-_CUCI.md",
+    "Retos-Web-picoCTF-Parte2/3- Irish-Name-Repo 3.md",
+    "Retos-Web-picoCTF-Parte2/4- JaWT Scratchpad.md",
+    "Retos-Concurso-MetaredCTF-Mexico",
+    "Retos-Web-picoCTF-Parte2/2- Irish-Name-Repo 2.md",
+    "Retos-Web-picoCTF-Parte2/1- Irish-Name-Repo 1.md",
     "Retos-Web-picoCTF/1- Insp3ct0r.md",
+    "Retos-Web-picoCTF/3- logon.md",
+    "Retos-Web-picoCTF/2- dont-use-client-side.md",
+    "Sin título.canvas",
     "Retos-Bandit/Plantilla.md",
+    "Retos-Web-picoCTF/5- Client-side-again.md",
+    "Retos-Web-picoCTF-Parte2",
+    "Retos-Web-picoCTF/6- picobrowser.md",
+    "Retos-Web-picoCTF/4- where are the robots.md",
     "Primer-parcial-picoCTF/Parte1/8-Warmed Up.md",
     "Primer-parcial-picoCTF/Parte1/1-Obedient Cat.md",
     "Retos-Web-picoCTF",
@@ -188,16 +201,6 @@
     "Primer-parcial-picoCTF/Parte1/3-Nice Netcat....md",
     "Primer-parcial-picoCTF/Parte1/2-Wave a flag.md",
     "Primer-parcial-picoCTF/parte2/1- 2Warm.md",
-    "Primer-parcial-picoCTF/parte2/2- Bases.md",
-    "Primer-parcial-picoCTF/parte2/3- Codebook.md",
-    "Primer-parcial-picoCTF/parte2/4- convertme.py.md",
-    "Primer-parcial-picoCTF/parte2/5- First Grep.md",
-    "Primer-parcial-picoCTF/parte2/6- fixme1.py.md",
-    "Primer-parcial-picoCTF/parte2/7- strings it.md",
-    "Primer-parcial-picoCTF/parte2/8- whats a net cat.md",
-    "Primer-parcial-picoCTF/parte3/1- fixme2.py.md",
-    "Primer-parcial-picoCTF/parte3/2- Glitch Cat.md",
-    "Primer-parcial-picoCTF/parte3/3- PW Crack 1.md",
     "Primer-parcial-picoCTF/parte3",
     "Primer-parcial-picoCTF/parte2",
     "Primer-parcial-picoCTF/Parte1",
