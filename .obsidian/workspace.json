@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Crypto_picoCTF-parte1/waves over lambda.md",
+                "file": "Retos-Crypto-picoCTF_parte2/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Crypto_picoCTF-parte1/waves over lambda.md",
+                "file": "Retos-Crypto-picoCTF_parte2/rsa-pop-quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Crypto_picoCTF-parte1/waves over lambda.md",
+                "file": "Retos-Crypto-picoCTF_parte2/rsa-pop-quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Crypto_picoCTF-parte1/waves over lambda.md"
+                "file": "Retos-Crypto-picoCTF_parte2/rsa-pop-quiz.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "56d4ac72dca9e1c7",
   "lastOpenFiles": [
-    "Retos-Bandit/Plantilla.md",
+    "Retos-Crypto-picoCTF_parte2/miniRSA.md",
+    "Retos-Crypto-picoCTF_parte2/b00tl3gRSA2.md",
     "Retos-Crypto_picoCTF-parte1/waves over lambda.md",
+    "Retos-Bandit/Plantilla.md",
     "Retos-Crypto_picoCTF-parte1/13.md",
     "Retos-Crypto_picoCTF-parte1/caesar.md",
     "Retos-Crypto_picoCTF-parte1/Easy1.md",
@@ -200,8 +202,6 @@
     "Retos-Web-picoCTF-parte4/Sin título",
     "Retos-Forensic-picoCTF-Parte1/Glory of the garden.md",
     "Sin título.canvas",
-    "Retos-Web-picoCTF-Parte2/3- Irish-Name-Repo 3.md",
-    "Retos-Concurso-MetaredCTF-Mexico/Poor security.md",
     "Retos-Forensic-picoCTF-Parte1",
     "Retos-Web-picoCTF-parte3",
     "Retos-Concurso-MetaredCTF-Mexico",
