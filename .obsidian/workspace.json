@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Crypto-picoCTF_parte2/rsa-pop-quiz.md",
+                "file": "Retos-Crypto-picoCTF-Parte3/HideToSee.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Crypto-picoCTF_parte2/rsa-pop-quiz.md",
+                "file": "Retos-Crypto-picoCTF-Parte3/HideToSee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Crypto-picoCTF_parte2/rsa-pop-quiz.md",
+                "file": "Retos-Crypto-picoCTF-Parte3/HideToSee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Crypto-picoCTF_parte2/rsa-pop-quiz.md"
+                "file": "Retos-Crypto-picoCTF-Parte3/HideToSee.md"
               }
             }
           },
@@ -171,10 +171,17 @@
   },
   "active": "56d4ac72dca9e1c7",
   "lastOpenFiles": [
+    "Retos-Crypto-picoCTF-Parte3/ReadMyCert.md",
+    "Retos-Crypto-picoCTF-Parte3/HideToSee.md",
+    "Retos-Crypto-picoCTF-Parte3/Pixelated.md",
+    "Retos-Bandit/Plantilla.md",
+    "Segundo-Examen-Parcial-parte2/Redaction gone wrong.md",
+    "Segundo-Examen-Parcial-parte2/St3g0.md",
+    "Retos-Crypto-picoCTF_parte2/rsa-pop-quiz.md",
+    "Retos-Crypto-picoCTF-Parte3",
     "Retos-Crypto-picoCTF_parte2/miniRSA.md",
     "Retos-Crypto-picoCTF_parte2/b00tl3gRSA2.md",
     "Retos-Crypto_picoCTF-parte1/waves over lambda.md",
-    "Retos-Bandit/Plantilla.md",
     "Retos-Crypto_picoCTF-parte1/13.md",
     "Retos-Crypto_picoCTF-parte1/caesar.md",
     "Retos-Crypto_picoCTF-parte1/Easy1.md",
@@ -193,20 +200,13 @@
     "Retos-Forensic-picoCTF-parte2/WhitePages.md",
     "Retos-Forensic-picoCTF-parte2/c0rrupt.md",
     "Retos-Forensic-picoCTF-parte2/like1000.md",
-    "Retos-Forensic-picoCTF-Parte1/What Lies Within.md",
     "Retos-Forensic-picoCTF-parte2",
-    "Retos-Bandit/LEVEL 7 → LEVEL 8.md",
-    "Retos-Forensic-picoCTF-Parte1/Extensions.md",
-    "Retos-Forensic-picoCTF-Parte1/Shark on wire 1.md",
-    "Retos-Forensic-picoCTF-Parte1/So Meta.md",
     "Retos-Web-picoCTF-parte4/Sin título",
-    "Retos-Forensic-picoCTF-Parte1/Glory of the garden.md",
     "Sin título.canvas",
     "Retos-Forensic-picoCTF-Parte1",
     "Retos-Web-picoCTF-parte3",
     "Retos-Concurso-MetaredCTF-Mexico",
     "Retos-Web-picoCTF-Parte2",
-    "Retos-Web-picoCTF",
-    "Primer-parcial-picoCTF/parte3"
+    "Retos-Web-picoCTF"
   ]
 }
