@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cdd19b35373d902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos-Bandit/Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "56d4ac72dca9e1c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Crypto-picoCTF-Parte3/HideToSee.md",
+                "file": "Retos-Reversing-picoCTF-parte2/asm3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Crypto-picoCTF-Parte3/HideToSee.md",
+                "file": "Retos-Reversing-picoCTF-parte2/asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Crypto-picoCTF-Parte3/HideToSee.md",
+                "file": "Retos-Reversing-picoCTF-parte2/asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Crypto-picoCTF-Parte3/HideToSee.md"
+                "file": "Retos-Reversing-picoCTF-parte2/asm3.md"
               }
             }
           },
@@ -171,10 +158,15 @@
   },
   "active": "56d4ac72dca9e1c7",
   "lastOpenFiles": [
-    "Retos-Crypto-picoCTF-Parte3/ReadMyCert.md",
-    "Retos-Crypto-picoCTF-Parte3/HideToSee.md",
-    "Retos-Crypto-picoCTF-Parte3/Pixelated.md",
+    "Retos-Reversing-picoCTF-parte2/asm2.md",
+    "Retos-Reversing-picoCTF-parte2/asm1.md",
+    "Retos-Reversing-picoCTF-parte2/asm3.md",
     "Retos-Bandit/Plantilla.md",
+    "Retos-Crypto-picoCTF-Parte3/HideToSee.md",
+    "Sin título.md",
+    "Retos-Reversing-picoCTF-parte2",
+    "Retos-Crypto-picoCTF-Parte3/ReadMyCert.md",
+    "Retos-Crypto-picoCTF-Parte3/Pixelated.md",
     "Segundo-Examen-Parcial-parte2/Redaction gone wrong.md",
     "Segundo-Examen-Parcial-parte2/St3g0.md",
     "Retos-Crypto-picoCTF_parte2/rsa-pop-quiz.md",
@@ -196,17 +188,12 @@
     "Retos-Forensic-picoCTF-parte3/WebNet1.md",
     "Retos-Forensic-picoCTF-parte2/m00nwalk.md",
     "Retos-Forensic-picoCTF-parte3",
-    "Retos-Forensic-picoCTF-parte2/shark on wire 2.md",
-    "Retos-Forensic-picoCTF-parte2/WhitePages.md",
-    "Retos-Forensic-picoCTF-parte2/c0rrupt.md",
-    "Retos-Forensic-picoCTF-parte2/like1000.md",
     "Retos-Forensic-picoCTF-parte2",
     "Retos-Web-picoCTF-parte4/Sin título",
     "Sin título.canvas",
     "Retos-Forensic-picoCTF-Parte1",
     "Retos-Web-picoCTF-parte3",
     "Retos-Concurso-MetaredCTF-Mexico",
-    "Retos-Web-picoCTF-Parte2",
-    "Retos-Web-picoCTF"
+    "Retos-Web-picoCTF-Parte2"
   ]
 }
